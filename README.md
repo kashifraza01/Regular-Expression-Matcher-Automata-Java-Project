@@ -109,15 +109,20 @@ This project helps in understanding:
 
 ## 📸 Application Screenshots
 
-<p align="center">
-  <img src="ss1.png" width="45%">
-  <img src="ss2.png" width="45%">
-</p>
+### ✅ Successful Match Result
+![Match Result](screenshots/ss1.png)
 
-<p align="center">
-  <img src="ss3.png" width="45%">
-  <img src="ss4.png" width="45%">
-</p>
+### ✅ Successful Match Result
+![Match Result](screenshots/ss2.png)
+
+### ❌ No Match
+![Error Result](screenshots/ss3.png)
+
+### ❌ No Match
+![Error Result](screenshots/ss4.png)
+
+### ❌ Invalid Regex
+![Error Result](screenshots/ss5.png)
 
 ---
 
