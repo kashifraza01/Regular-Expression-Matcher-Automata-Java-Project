@@ -6,9 +6,9 @@ import java.awt.event.*;
 import java.util.regex.*;
 
 public class Automata extends JFrame{
-    private JTextField regf;
-    private JTextField inputf;
-    private JLabel rl;
+    private final JTextField regf;
+    private final JTextField inputf;
+    private final JLabel rl;
 
     public Automata(){
         setTitle("regular expression matcher");
@@ -39,12 +39,7 @@ public class Automata extends JFrame{
         rp.add(rl);
         add(rp);
 
-        mb.addActionListener(new ActionListener(){
-            @Override
-            public void actionPerformed(ActionEvent e){
-                performmatching();
-            }
-        });
+        mb.addActionListener(e -> performmatching());
         setLocationRelativeTo(null);
         setVisible(true);
     }
