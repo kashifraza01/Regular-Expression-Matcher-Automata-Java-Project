@@ -46,7 +46,7 @@ This project demonstrates practical implementation of **Automata Theory** concep
 ## 📂 Project Structure
 
 ```
-kashif/
+Regular-Expression-Matcher-Automata-Java-Project/
  └── Automata.java
 ```
 
@@ -104,6 +104,20 @@ This project helps in understanding:
 * Automata Theory application
 * String pattern validation
 * GUI-based Java application development
+
+---
+
+## 📸 Application Screenshots
+
+<p align="center">
+  <img src="ss1.png" width="45%">
+  <img src="ss2.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="ss3.png" width="45%">
+  <img src="ss4.png" width="45%">
+</p>
 
 ---
 
